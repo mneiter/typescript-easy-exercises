@@ -1,10 +1,10 @@
 // import { isPalindrome, isPalindrome2 } from './palindrome';
 // import { twoSum } from './twoSum';
 // import { romanToInt } from './romanToInt';
-import { longestCommonPrefix } from './longestCommonPrefix';
+// import { longestCommonPrefix } from './longestCommonPrefix';
 
-console.log(longestCommonPrefix(['flower', 'flow', 'flight'])); // "fl"
-console.log(longestCommonPrefix(['dog', 'racecar', 'car'])); // ""
+// console.log(longestCommonPrefix(['flower', 'flow', 'flight'])); // "fl"
+// console.log(longestCommonPrefix(['dog', 'racecar', 'car'])); // ""
 
 // console.log(romanToInt('III')); // 3
 // console.log(romanToInt('LVIII')); // 58
